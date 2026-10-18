@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -31,6 +32,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -73,4 +75,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
