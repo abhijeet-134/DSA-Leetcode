@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -28,6 +29,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -79,4 +81,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
