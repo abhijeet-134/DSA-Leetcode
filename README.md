@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -61,6 +63,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +88,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
