@@ -4,12 +4,22 @@ class Solution {
         int cols = matrix[0].length;
 
         for(int i=0; i<rows; i++) {
-            for(int j=0; j<cols; j++) {
-                if(matrix[i][j] == target) {
+            int start = 0;
+            int end = cols -1;
+
+            while(start <= end) {
+                int mid = start + (end - start) / 2;
+
+                if(matrix[i][mid] == target) {
                     return true;
+                }else if(matrix[i][mid] < target) {
+                    start = mid + 1;
+                }else {
+                    end = mid -1;
                 }
             }
         }
         return false;
+
     }
 }
