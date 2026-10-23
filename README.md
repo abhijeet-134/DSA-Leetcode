@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
@@ -94,4 +95,8 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
