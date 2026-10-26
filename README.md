@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -36,6 +37,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -111,4 +113,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
