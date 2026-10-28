@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
@@ -53,6 +54,7 @@
 | [0031-next-permutation](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +106,7 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +124,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
