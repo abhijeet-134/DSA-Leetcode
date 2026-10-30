@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -52,6 +53,7 @@
 | [0015-3sum](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -72,6 +74,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Divide and Conquer
@@ -132,4 +135,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/abhijeet-134/DSA-Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
