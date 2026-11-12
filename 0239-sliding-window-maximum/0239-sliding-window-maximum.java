@@ -28,7 +28,7 @@ class Solution {
         int resArr[] = new int[result.size()];
         for(int i=0; i<result.size(); i++) {
             resArr[i] = result.get(i);
-        }
+        } 
         return resArr;
     }
 }
